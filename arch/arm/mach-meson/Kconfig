@@ -68,7 +68,7 @@ config SYS_MALLOC_F_LEN
 
 source "board/amlogic/odroid-c2/Kconfig"
 
-source "board/amlogic/nanopi-k2/kconfig"
+source "board/amlogic/nanopi-k2/Kconfig"
 
 source "board/amlogic/p212/Kconfig"
 
